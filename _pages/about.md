@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Ph.D. student at [Integrative Simulations and Computational Fluids Lab](https://ypeet.github.io/isim/) st Arizona State University. My research interests are turbulent flow control methods using CFD, numerical modeling, and high-performance computing to optimize advanced aircraft surface performance. 
+Hi, I am Ph.D. student at [Integrative Simulations and Computational Fluids Lab](https://ypeet.github.io/isim/) st Arizona State University. My research interests are turbulent flow control methods using CFD, numerical modeling, and high-performance computing to optimize advanced aircraft surface performance.
