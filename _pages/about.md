@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Ph.D. Researcher, Arizona State University</a>.Tempe, AZ, USA.
+subtitle: <a href='https://ypeet.github.io/isim/'> Ph.D. Researcher, Arizona State University</a>. Tempe, AZ, USA.
 
 profile:
   align: right
