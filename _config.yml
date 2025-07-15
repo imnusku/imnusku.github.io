@@ -103,7 +103,8 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can reach me at <a href="mailto:asubedi5@asu.edu">asubedi5@asu.edu</a>.
+  You can reach me at <a href="https://mail.google.com/mail/?view=cm&to=asubedi5@asu.edu" target="_blank">asubedi5@asu.edu</a>.
+
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
