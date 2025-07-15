@@ -21,9 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<h1 style="margin-top: 0; font-size: 38px;">Anushka Subedi</h1>
+<h1 style="margin-top: 0; font-size: 38px;">Anushka Subedi [<a href="../assets/pdf/resume_upload.pdf" target="_blank">CV</a>]</h1>
 <h3 style="font-size: 14px;">Ph.D. Researcher, Arizona State University, Tempe, Arizona, USA</h3>
-
 
 
 
