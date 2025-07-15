@@ -24,6 +24,7 @@ social: true  # includes social icons at the bottom of the page
 <h1 style="margin-top: 0; font-size: 38px;">Anushka Subedi [<a href="../assets/pdf/resume_upload.pdf" target="_blank">CV</a>]</h1>
 <h3 style="font-size: 14px;">Ph.D. Researcher, Arizona State University, Tempe, Arizona, USA</h3>
 
-
+<br>
+<br>
 
 Hi, I am Ph.D. student at [Integrative Simulations and Computational Fluids Lab](https://ypeet.github.io/isim/) st Arizona State University. My research interests are turbulent flow control methods using CFD, numerical modeling, and high-performance computing to optimize advanced aircraft surface performance.
