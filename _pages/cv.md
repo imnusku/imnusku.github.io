@@ -15,4 +15,4 @@ permalink: /cv/
 layout: none
 ---
 
-<meta http-equiv="refresh" content="0; url=/assets/resume_upload.pdf" />
+<meta http-equiv="refresh" content="0; url=/assets/pdf/resume_upload.pdf" />
