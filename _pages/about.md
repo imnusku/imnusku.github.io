@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 ---
 
-<h1 style="margin-top: 0;">Anushka Subedi</h1>
-<h3><a href="https://ypeet.github.io/isim/" target="_blank">Ph.D. Researcher, Arizona State University</a></h3>
-<h4>Tempe, AZ, USA</h4>
+<h1 style="margin-top: 0; font-size: 36px;">Anushka Subedi</h1>
+<h3 style="font-size: 20px;">Ph.D. Researcher, Arizona State University</h3>
+<h4 style="font-size: 16px;">Tempe, AZ, USA</h4>
 
 ---
 
