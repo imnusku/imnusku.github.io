@@ -20,11 +20,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-#---
-<h1 style="margin-top: 0; font-size: 38px;">Anushka Subedi</h1>
-<h3 style="font-size: 16px;">Ph.D. Researcher, Arizona State University</h3>
-<h4 style="font-size: 16px;">Tempe, Arizona, USA</h4>
 
-#---
+<h1 style="margin-top: 0; font-size: 38px;">Anushka Subedi</h1>
+<h3 style="font-size: 14px;">Ph.D. Researcher, Arizona State University, Tempe, Arizona, USA</h3>
+
+
+
 
 Hi, I am Ph.D. student at [Integrative Simulations and Computational Fluids Lab](https://ypeet.github.io/isim/) st Arizona State University. My research interests are turbulent flow control methods using CFD, numerical modeling, and high-performance computing to optimize advanced aircraft surface performance.
