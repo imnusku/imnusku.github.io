@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ypeet.github.io/isim/'> Ph.D. Researcher, Arizona State University</a>. Tempe, AZ, USA.
+<h1 style="margin-top: 0;">Anushka Subedi</h1>
+<h3><a href="https://ypeet.github.io/isim/" target="_blank">Ph.D. Researcher, Arizona State University</a></h3>
+<h4>Tempe, AZ, USA</h4>
+#subtitle: <a href='https://ypeet.github.io/isim/'> Ph.D. Researcher, Arizona State University</a>. Tempe, AZ, USA.
 
 profile:
   align: right
