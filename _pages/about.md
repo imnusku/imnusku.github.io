@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Phoenix, Arizona, USA</p>
+   # <p>Phoenix, Arizona, USA</p>
   #  <p>123 your address street</p>
    # <p>Your City, State 12345</p>
 
@@ -21,10 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<h1 style="margin-top: 0; font-size: 38px;">Anushka Subedi [<a href="../assets/pdf/resume_upload.pdf" target="_blank">CV</a>]</h1>
+<h1 style="margin-top: 0; font-size: 38px;">Anushka Subedi </h1> [<a href="../assets/pdf/resume_upload.pdf" target="_blank">CV</a>]
 <h3 style="font-size: 14px;">Ph.D. Researcher, Arizona State University, Tempe, Arizona, USA</h3>
 
-<br>
 <br>
 
 Hi, I am Ph.D. student at [Integrative Simulations and Computational Fluids Lab](https://ypeet.github.io/isim/) st Arizona State University. My research interests are turbulent flow control methods using CFD, numerical modeling, and high-performance computing to optimize advanced aircraft surface performance.
