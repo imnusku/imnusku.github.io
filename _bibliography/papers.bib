@@ -8,12 +8,13 @@
   abbr={AIAA Aviation},
   title={Turbulent Flow Control using Wall Sensing},
   author={Subedi, Anushka and Peet, Yulia},
-  journal={AIAA AVIATION FORUM AND ASCEND},
+  booktitle={AIAA AVIATION FORUM AND ASCEND},
   pages={3868},
   year={2024},
   selected={true},
   preview={aviation.jpg},
-  website={https://arc.aiaa.org/doi/abs/10.2514/6.2024-3868}
+  website={https://arc.aiaa.org/doi/abs/10.2514/6.2024-3868},
+  abstract={Turbulent flow control plays a pivotal role in diverse applications such as drag reduction, mixing, heat transfer, and boundary layer and flow separation control. Although numerous active and passive methods have been explored for mitigating drag in turbulent flows, this study introduces an approach, not widely explored, that utilizes wall-sensing based on wall shear stress. We conduct a comparative analysis with the opposition control method, which uses velocity sensing at an off-wall location. The results from opposition control reveal significant drag reduction: 21.11% at Re_tau ≈ 180 and 18% at Re_tau ≈ 390. In contrast, the wall-sensing method achieves drag reductions of 10.64% at Re_tau ≈ 180 and 7.12% at Re_tau ≈ 390. This relative ineffectiveness of the wall-sensing control method is attributed to a high-frequency content of the wall shear stress data, which, if undamped, may lead to oscillations in the applied control signal. This, in turn, requires either a reduction in gain, or `freezing' of the control input in time to arrive at a stable control implementation, reducing the method effectiveness as compared to an opposition control approach.}
 }
 
 @article{adhikari2021design,
@@ -25,26 +26,29 @@
   pages={41--50},
   year={2021},
   website={https://doi.org/10.3126/jie.v16i1.36534},
-  preview={pelton.png}
+  preview={pelton.png},
+  abstract={Hydraulic turbines are used to convert the energy in flowing water to rotational mechanical energy. The design of high head Pelton turbine is difficult due to complex flow pattern on different parts. The basic dimensions can be obtained from interpolation techniques and design trends but the main challenge is to model the hydrodynamic surface. The surface must be designed such that it would harvest energy in an efficient manner and the manufacturing of the surface is also economic and simple. For the design of Pelton turbine, the data from Kulekhani-I hydropower is taken. Pelton turbine is designed for the given head (550 m), flow rate (6.05 m3/sec) and speed (600 rpm). For basic dimensions, interpolation techniques and design trends are used. Number of buckets is calculated for maximum efficiency condition and found to be twenty. Nozzle and spear are selected based on hydraulic efficiency. Spear angle and nozzle angle of 70° and 100° respectively are selected. The bucket surface is designed with the help of second order B-Spline. Circular and Second order B-spline surfaces with different depths are analyzed using commercial CFD code. The second order B-Spline with depth 186.22 mmis found to be more effective in terms of force exerted by the jet among the given surfaces. Finally, Bucket surface is generated using non-uniform rational B-spline (NURBS) modeling after all the basic dimensions are determined. For verification, the design is compared with the design of commercial design software and the turbine in Kulekhani-I hydropower plant.}
 }
 
 @inproceedings{subedi2025frequency,
   title={Frequency-Tuned Approaches to Wall Transpiration Control},
   author={Subedi, Anushka and Peet, Yulia},
-  journal={AIAA SCITECH Forum},
+  booktitle={AIAA SCITECH Forum},
   pages={1298},
   year={2025},
   website={https://doi.org/10.2514/6.2025-1298},
   preview={michaelphelps.jpg},
-  selected={true}
+  selected={true},
+  abstract={Improving turbulent flow control is crucial for various applications like reducing drag, enhancing mixing, and managing heat transfer. Feedback control approaches, which sense the turbulent signal in the flow and modify the actuation depending on the value of the signal, such as opposition control or a wall-sensing control, have proven to be effective. However, these approaches use the full, unfiltered signal, which naturally contains multiple frequencies. In conjunction with a recent interest in passive frequency-tuned surfaces that selectively respond to a single frequency or a band of frequencies, this paper explores a feedback-control approach that focuses on specific frequencies. We compare the frequency-tuned approach with the classical opposition control (that senses flow velocity in some off-wall location) and with our previously-developed wall-sensing control (that acts upon a wall shear stress), both using unfiltered temporal signals (across all frequencies). Initial findings show a drag reduction of 21.11% at Re_tau ≈ 180 and 18% atRe_tau ≈ 390 using classical opposition control, and 10.64% at Re_tau ≈ 180 and 7.12% at Re_tau ≈ 390 using wall-sensing control, demonstrating some reduction in effectiveness for wall-sensing strategy. The frequency-tuned method developed in this study achieved only modest drag reductions, ranging between 1% and 2% for Re_tau ≈ 180, and even showed a slight drag increase of 1% to 2% with higher Reynolds numbers (Re_tau ≈ 390). This outcome highlights the limitations of relying on a single-frequency control strategy, which proves inadequate for managing complex turbulence dynamics that has a broadband spectrum, especially at higher Reynolds numbers.}
 }
 
 @inproceedings{pandey2025modal,
   title={Modal Decomposition of Flow During Dynamic Stall in NACA 4412 Airfoil Using Proper Orthogonal Decomposition},
   author={Pandey, Anup and Timsina, Manish and Subedi, Anushka and Gautam, Sandip and Darlami, Kamal and Bhattrai, Sudip},
-  journal={AIAA SCITECH Forum},
+  booktitle={AIAA SCITECH Forum},
   pages={0886},
   year={2025},
   website={https://doi.org/10.2514/6.2025-0886},
-  preview={osc7_outer_plotmode_2time_060.png}
+  preview={osc7_outer_plotmode_2time_060.png},
+  abstract={The dynamic stall is an intricate phenomenon that is omnipresent in rotor dynamics, maneuvering aircraft, and wind turbines. The interaction of the leading edge vortex also referred to as dynamic stall vortex and the unsteadiness due to oscillating airfoil makes the phenomenon complex with different scales of interactions. These interactions are difficult to analyze when coupled, decomposing them based on the energy content into simpler modes and coherent structures provides a better understanding of the phenomenon. The capability of Proper Orthogonal Decomposition to decompose a large dataset into insightful coherent structures and being resistant to inherent noises makes it an ideal technique for this study. The dataset for the model decomposition is obtained from the URANS simulation of oscillating airfoil at different reduced frequencies (k = 0.0025 and 0.1). The region around the airfoil is analyzed based on the local coordinate frame rotating with the chord of the airfoil and the wake zone is analyzed in the global coordinate frame. The first three POD modes are observed to quantify more than 95 % of the total energy content. The first mode bears more than half of the energy share of the turbulent kinetic energy, this mode shows the growth of the leading-edge vortex-feeding energy from the shear layer. The second mode accounts for less than 20 % of total energy representing the interaction of shear layers at the upper and the lower surface of the airfoil. The energy with the modes is seen to be dependent not only on the reduced frequency but also on the oscillating amplitude of the airfoil. The POD modes in the far wake of the airfoil closely resemble the structures behind the wake of a bluff body. This study sheds light on the complex interaction during dynamic stall decomposing the flow into dominant modes based on the energy content.}
 }
