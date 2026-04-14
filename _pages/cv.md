@@ -6,4 +6,4 @@ nav: true
 nav_order: 4
 published: true
 ---
-<meta http-equiv="refresh" content="0; url=/assets/pdf/cfd_resume.pdf" />
+<meta http-equiv="refresh" content="0; url=/assets/pdf/resume_AnushkaSubedi.pdf" />
